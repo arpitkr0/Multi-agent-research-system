@@ -2,7 +2,7 @@
 
 > Autonomous Multi-Agent AI Research Platform powered by GPT-4o-mini, LangChain, Tavily Search, and Streamlit.
 
-ResearchMind OS is an end-to-end AI research system that autonomously searches the web, extracts relevant information, synthesizes findings into a structured report, and critiques its own output using a team of specialized AI agents.
+ResearchFlow AI is an end-to-end AI research system that autonomously searches the web, extracts relevant information, synthesizes findings into a structured report, and critiques its own output using a team of specialized AI agents.
 
 ---
 
@@ -120,8 +120,8 @@ User Query
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/researchmind-os.git
-cd researchmind-os
+git clone https://github.com/yourusername/ResearchFlow-AI.git
+cd ResearchFlow-AI
 ```
 
 ### Create Virtual Environment
