@@ -1,4 +1,4 @@
-# 🧠 ResearchMind OS
+# 🧠 ResearchFlow AI
 
 > Autonomous Multi-Agent AI Research Platform powered by GPT-4o-mini, LangChain, Tavily Search, and Streamlit.
 
